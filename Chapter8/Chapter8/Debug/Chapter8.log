@@ -1,0 +1,9 @@
+﻿  Chapter8.cpp
+d:\cpp_primer_plus\chapter8\chapter8\chapter8.cpp(274): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  d:\cpp_primer_plus\chapter8\chapter8\chapter8.cpp(261): note: 参见对正在编译的函数 模板 实例化“T SumArray<int>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+  Chapter8.vcxproj -> D:\CPP_Primer_Plus\Chapter8\Debug\Chapter8.exe
+  Chapter8.vcxproj -> D:\CPP_Primer_Plus\Chapter8\Debug\Chapter8.pdb (Partial PDB)
