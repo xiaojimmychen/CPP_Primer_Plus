@@ -1,0 +1,6 @@
+﻿  Chapter12.cpp
+d:\cpp_primer_plus\chapter12\chapter12\chapter12.cpp(157): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\cpp_primer_plus\chapter12\chapter12\chapter12.cpp(216): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\cpp_primer_plus\chapter12\chapter12\chapter12.cpp(323): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Chapter12.vcxproj -> D:\CPP_Primer_Plus\Chapter12\Debug\Chapter12.exe
+  Chapter12.vcxproj -> D:\CPP_Primer_Plus\Chapter12\Debug\Chapter12.pdb (Partial PDB)
